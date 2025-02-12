@@ -13,7 +13,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Author](#John Marshal)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
